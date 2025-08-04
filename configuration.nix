@@ -143,7 +143,7 @@
     pixi
     conda
     jetbrains-toolbox
-    jetbrains.pycharm-professional
+    #jetbrains.pycharm-professional
     vscode
     clash-verge-rev
     netease-cloud-music-gtk
@@ -152,6 +152,10 @@
     gcc
     gnumake
     rustup
+    fish
+    nerd-fonts.jetbrains-mono
+    google-chrome
+    helix
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
